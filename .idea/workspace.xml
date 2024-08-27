@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9281e68f-29bf-4b16-a2e1-2b1fc12c53e5" name="Changes" comment="" />
+    <list default="true" id="9281e68f-29bf-4b16-a2e1-2b1fc12c53e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/sq-ch2-ex6/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch2-ex6/src/main/java/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sq-ch2-ex6/src/main/java/main/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch2-ex6/src/main/java/main/Parrot.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +48,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Workspaces/Java Workspace/springPractice/sq-ch2-ex2",
+    "last_opened_file_path": "C:/Workspaces/Java Workspace/springPractice",
     "settings.editor.selected.configurable": "preferences.language.and.region"
   }
 }]]></component>
