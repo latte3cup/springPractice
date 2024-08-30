@@ -43,17 +43,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Workspaces/Java Workspace/springPractice&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.and.region&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Workspaces/Java Workspace/springPractice/sq-ch7-ex1",
+    "settings.editor.selected.configurable": "preferences.language.and.region"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Workspaces\Java Workspace\springPractice" />
       <recent name="C:\Workspaces\Java Workspace\springPractice\sq-ch2-ex2\src\main\java\org\example" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -86,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724831308586</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ch3 까지 완료">
+      <option name="closed" value="true" />
+      <created>1724925352249</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724925352249</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +112,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ch5 까지 완료" />
     <MESSAGE value="ch5 까지 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="ch5 까지 완료" />
+    <MESSAGE value="ch6 까지 완료" />
+    <MESSAGE value="ch6 까지 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch6 까지 완료" />
   </component>
 </project>
