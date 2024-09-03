@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9281e68f-29bf-4b16-a2e1-2b1fc12c53e5" name="Changes" comment="ch3 까지 완료">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,15 +44,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Workspaces/Java Workspace/springPractice/sq-ch7-ex1",
-    "settings.editor.selected.configurable": "preferences.language.and.region"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Workspaces/Java Workspace/springPractice&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.and.region&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Workspaces\Java Workspace\springPractice" />
@@ -95,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724925352249</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ch3 까지 완료">
+      <option name="closed" value="true" />
+      <created>1725004902264</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725004902264</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +123,8 @@
     <MESSAGE value="ch5 까지 완료" />
     <MESSAGE value="ch6 까지 완료" />
     <MESSAGE value="ch6 까지 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="ch6 까지 완료" />
+    <MESSAGE value="ch7 까지 완료, 메모 파일 삭제" />
+    <MESSAGE value="ch7 까지 완료, 메모 파일 삭제" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch7 까지 완료, 메모 파일 삭제" />
   </component>
 </project>
