@@ -4,8 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9281e68f-29bf-4b16-a2e1-2b1fc12c53e5" name="Changes" comment="ch9 까지 완료">
+    <list default="true" id="9281e68f-29bf-4b16-a2e1-2b1fc12c53e5" name="Changes" comment="ch3 까지 완료">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sq-ch12-ex1/src/main/java/com/example/controllers/PurchaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch12-ex1/src/main/java/com/example/controllers/PurchaseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sq-ch12-ex1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch12-ex1/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sq-ch9-ex1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch9-ex1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sq-ch9-ex1/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch9-ex1/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sq-ch9-ex1/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch9-ex1/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sq-ch9-ex1/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch9-ex1/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sq-ch9-ex1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch9-ex1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sq-ch9-ex1/src/main/java/main/sq_ch9_ex1/SqCh9Ex1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sq-ch9-ex1/src/main/java/main/sq_ch9_ex1/controllers/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sq-ch9-ex1/src/main/java/main/sq_ch9_ex1/models/LoginProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sq-ch9-ex1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch9-ex1/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sq-ch9-ex1/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch9-ex1/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sq-ch9-ex1/src/test/java/main/sq_ch9_ex1/SqCh9Ex1ApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +34,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -31,7 +45,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/latte3cup/springPractice.git&quot;,
-    &quot;accountId&quot;: &quot;2357e638-08c1-4a65-9d39-aa611b176bef&quot;
+    &quot;accountId&quot;: &quot;41bdfca7-abd1-4fb5-ae65-d76bf00d82dc&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -46,9 +60,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Workspaces/Java Workspace/springPractice",
+    "last_opened_file_path": "C:/Workspaces/javaWorkspace/springPractice",
     "settings.editor.selected.configurable": "preferences.language.and.region"
   }
 }]]></component>
